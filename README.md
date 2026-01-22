@@ -121,7 +121,6 @@ A curated collection of free resources for learners, especially in AI & Data Sci
 ### Version Control & Collaboration
 - [Git](https://git-scm.com/) - Version control system
 - [GitHub](https://github.com/) - Code hosting platform
-- [Google Colaboratory](https://colab.research.google.com/) - Collaborative notebooks
 
 ### Visualization Tools
 - [Tableau Public](https://public.tableau.com/) - Free data visualization tool
@@ -146,7 +145,6 @@ A curated collection of free resources for learners, especially in AI & Data Sci
 ### Research & Papers
 - [ArXiv](https://arxiv.org/) - Preprint repository for scientific papers
 - [Google Scholar](https://scholar.google.com/) - Search engine for scholarly literature
-- [Papers with Code](https://paperswithcode.com/) - ML research papers with code
 
 ---
 
